@@ -1,5 +1,7 @@
-print("aaaa")
-print("bbbb")
-print("cccc")
+
 print("dddd")
+print("abcde")
+print("fghi")
+print("cccc")
+print("zzzz")
 print("eeee")
